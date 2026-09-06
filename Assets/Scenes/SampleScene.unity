@@ -1455,7 +1455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8056043335819034767, guid: 968b13af60a26ab4cba5851b199fe7ab, type: 3}
       propertyPath: m_Name
-      value: character_berie
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8056043335819034767, guid: 968b13af60a26ab4cba5851b199fe7ab, type: 3}
       propertyPath: m_TagString
